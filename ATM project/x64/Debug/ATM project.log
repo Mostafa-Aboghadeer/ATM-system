@@ -1,0 +1,5 @@
+﻿  server.c
+G:\Visual studio projects\ATM project\server.c(135,32): warning C4018: '>': signed/unsigned mismatch
+G:\Visual studio projects\ATM project\server.c(132): warning C4715: 'saveTransaction': not all control paths return a value
+G:\Visual studio projects\ATM project\server.c(152): warning C4715: 'isBlockedAccount': not all control paths return a value
+  ATM project.vcxproj -> G:\Visual studio projects\ATM project\x64\Debug\ATM project.exe
